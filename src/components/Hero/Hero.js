@@ -38,7 +38,7 @@ const Hero = () => {
               />
             </h1>
             <p data-aos='fade-up'>
-              Percayakan Urusan Penerjemah Anda Kepada Kami
+              Percayakan Urusan Penerjemahan Anda Kepada Kami
             </p>
             <ul data-aos='fade-up'>
               <li>
